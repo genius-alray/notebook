@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8b28b4752b7cde34",
+        "id": "879913d32824dd15",
         "type": "tabs",
         "children": [
           {
-            "id": "4f57aa172843e775",
+            "id": "775627b9ae8ba8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "技术经验/软件/WingetUI.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e68c9bdbb9bd62b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术经验/软件/WingetUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术经验/软件/WingetUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术经验/软件/WingetUI.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e68c9bdbb9bd62b0",
+  "active": "775627b9ae8ba8ce",
   "lastOpenFiles": [
-    "README.md"
+    "技术经验/软件/WingetUI.md",
+    "README.md",
+    "技术经验/软件",
+    "技术经验"
   ]
 }
