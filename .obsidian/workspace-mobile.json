@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "技术经验/软件/WingetUI.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,13 +133,17 @@
   },
   "active": "37c8baff29aaa88e",
   "lastOpenFiles": [
+    "技术经验/软件/PixPin.md",
+    "技术经验/个人对不同操作系统的看法.md",
     "/技术经验/软件/WingetUI.md",
+    "/技术经验/软件/PixPin.md",
+    "/技术经验/个人对不同操作系统的看法.md",
+    "/README.md",
     "README.md",
     "技术经验/软件/WingetUI.md",
     "技术经验/软件",
     "技术经验",
     "/技术经验/软件",
-    "/技术经验",
-    "/README.md"
+    "/技术经验"
   ]
 }
