@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "技术经验/软件/WingetUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#个人想法",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "技术经验/软件/WingetUI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "技术经验/软件/WingetUI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "技术经验/软件/WingetUI.md"
           }
         }
       }
@@ -131,18 +131,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37c8baff29aaa88e",
+  "active": "54297609961c2237",
   "lastOpenFiles": [
-    "emo/黑暗中的一点火苗.md",
-    "技术经验/个人对不同操作系统的看法.md",
-    "emo",
+    "创意与设计",
+    "技术经验/未命名.canvas",
     "技术经验/软件/WingetUI.md",
     "技术经验/软件/PixPin.md",
+    "emo/黑暗中的一点火苗.md",
+    "技术经验/个人对不同操作系统的看法.md",
+    "README.md",
+    "emo",
     "/技术经验/软件/WingetUI.md",
     "/技术经验/软件/PixPin.md",
     "/技术经验/个人对不同操作系统的看法.md",
     "/README.md",
-    "README.md",
     "技术经验/软件",
     "技术经验",
     "/技术经验/软件",
