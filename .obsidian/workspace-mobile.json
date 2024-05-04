@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术经验/软件/WingetUI.md",
+                "file": "技术经验/个人对不同操作系统的看法.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "技术经验/软件/WingetUI.md",
+            "file": "技术经验/个人对不同操作系统的看法.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "技术经验/软件/WingetUI.md",
+            "file": "技术经验/个人对不同操作系统的看法.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "技术经验/软件/WingetUI.md"
+            "file": "技术经验/个人对不同操作系统的看法.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "37c8baff29aaa88e",
   "lastOpenFiles": [
+    "技术经验/软件/WingetUI.md",
     "技术经验/软件/PixPin.md",
     "技术经验/个人对不同操作系统的看法.md",
     "/技术经验/软件/WingetUI.md",
@@ -140,7 +141,6 @@
     "/技术经验/个人对不同操作系统的看法.md",
     "/README.md",
     "README.md",
-    "技术经验/软件/WingetUI.md",
     "技术经验/软件",
     "技术经验",
     "/技术经验/软件",
